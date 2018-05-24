@@ -1,6 +1,8 @@
 /*
 9095 - 1,2,3 더하기 
-공식부터 구하긔
+공식부터 구하긔  
+d[0] = 0 기본적으로 idx가 0 일때, 값이 0 으로 초기화가 되는데   
+내가 구한 식으로부터 다시 한번 검산과정 거쳐야한다. 만약, d[0] 값이 0 이 아니라면 고쳐줘야함 
 */
 import java.io.BufferedReader;
 import java.io.IOException;
