@@ -1,5 +1,6 @@
 /*
-2193 - 이친수
+2193 - 이친수 
+long 형 !! 
 */
 import java.io.BufferedReader;
 import java.io.IOException;
