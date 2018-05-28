@@ -1,6 +1,6 @@
 /*
 11722 - 가장 긴 감소하는 부분순열 
-
+pivot : i, j  
 */
 import java.io.BufferedReader;
 import java.io.IOException;
