@@ -24,11 +24,11 @@ public class Main {
 			}
 		}
 		int ans = d[0];
-        for (int i=1; i<= N; i++) {
-            if (ans < d[i]) {
-                ans = d[i];
-            }
-        }
-		System.out.println(ans);
+		for (int i=1; i<= N; i++) {
+		    if (ans < d[i]) {
+			ans = d[i];
+		    }
+		}
+			System.out.println(ans);
 	}
 }
